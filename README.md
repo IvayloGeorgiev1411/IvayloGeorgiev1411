@@ -11,12 +11,12 @@ I'm a passionate **software developer** and recent graduate from [**Telerik Acad
 - **Backend & Databases:** SQL, PostgreSQL (currently learning)  
 - **In Progress:**  
   - 🌱 Exploring more backend tools with SQL & PostgreSQL  
-  - 🔨 Building a project with **TypeScript** + **React** + **PostgreSQL** integration  
+  - 🔨 Building a project with **TypeScript** + **React** + **Express** **PostgreSQL** integration  
 ---
 
 ## 🚀 Current Focus  
 - 📚 **Finishing up:** TypeScript mastery  
-- 💻 **Working on:** Full-Stack project with React, TypeScript & PostgreSQL  
+- 💻 **Working on:** Full-Stack project with React, TypeScript, Express & PostgreSQL  
 - 🧠 **Learning:** SQL & PostgreSQL  
 ---
 
