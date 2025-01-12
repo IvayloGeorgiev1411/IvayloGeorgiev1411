@@ -8,16 +8,14 @@ I'm a passionate **software developer** and recent graduate from [**Telerik Acad
 
 - **Languages:** JavaScript, TypeScript  
 - **Frontend:** React.js  
-- **Backend & Databases:** SQL, PostgreSQL (currently learning)  
+- **Backend & Databases:** Node.js, Express, SQL, PostgreSQL 
 - **In Progress:**  
-  - 🌱 Exploring more backend tools with SQL & PostgreSQL  
-  - 🔨 Building a full-stack project
+  - 🌱 Exploring more backend tools like GraphQL and NestJS  
 ---
 
 ## 🚀 Current Focus  
 - 📚 **Finishing up:** TypeScript mastery  
-- 💻 **Working on:** Full-Stack project with React, TypeScript, Express & PostgreSQL  
-- 🧠 **Learning:** SQL & PostgreSQL  
+- 🧠 **Learning:** GraphQL and NestJS
 ---
 
 ## 🌐 Let's Connect  
