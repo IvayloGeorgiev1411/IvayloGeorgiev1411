@@ -8,14 +8,13 @@ I'm a passionate **software developer** excited to dive deeper into the world of
 
 - **Languages:** JavaScript, TypeScript  
 - **Frontend:** React.js  
-- **Backend & Databases:** Node.js, Express, SQL, PostgreSQL 
+- **Backend & Databases:** Node.js, Express, GraphQL, NestJS, NoSQL, PostgreSQL 
 - **In Progress:**  
-  - 🌱 Exploring more backend tools like GraphQL and NestJS  
+  - 🌱 Exploring C# and .NET 
 ---
 
 ## 🚀 Current Focus  
-- 📚 **Finishing up:** TypeScript mastery  
-- 🧠 **Learning:** GraphQL and NestJS
+- 🧠 **Learning:** Learning C# and .NET
 ---
 
 ## 🌐 Let's Connect  
