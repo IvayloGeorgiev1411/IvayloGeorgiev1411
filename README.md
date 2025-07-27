@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Ivaylo. 
 
-I'm a passionate **software developer** and recent graduate from [**Telerik Academy**](https://www.telerikacademy.com/), excited to dive deeper into the world of coding and technology. I enjoy building intuitive user interfaces and scalable applications using modern web technologies.  
+I'm a passionate **software developer** excited to dive deeper into the world of coding and technology. I enjoy building intuitive user interfaces and scalable applications using modern web technologies.  
 
 ---
 
